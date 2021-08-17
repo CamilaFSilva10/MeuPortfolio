@@ -1,0 +1,164 @@
+.topo{
+    background-color:rgb(148, 38, 115);
+    height: 50px;
+}
+.nomeCenter{
+    text-align: center;
+}
+.corLink{
+    color: rgb(253, 253, 253);
+    margin-right: 93%;
+    margin-left: 2%;
+}
+#foto{
+    width: 25.5%;
+    margin-top: 2.5%;
+    margin-bottom: 2%;
+    margin-left: 130px;
+}
+
+.logo{
+    width: 12%;
+    margin-left: 60%;
+}
+#logoF{
+    width: 5%;
+    margin-left: 48%;
+}
+.sobremim{
+    padding-bottom: 10%;
+}
+#fotosensor{
+    width: 50%;
+}
+.puc{
+    width: 10%;
+}
+#imgS{
+    width: 37.1%;
+    margin-top: 2.2%;
+    margin-left: 4%;
+
+}
+.projeto{
+    margin-left: 65%;
+    margin-top: 100px;
+    margin-bottom: 110px;
+}
+.imgSobre{
+    margin-left: 30%;
+    margin-top: 21%;
+
+}
+#saibamais{
+    margin-left: 33%;
+
+}
+#saibamaisP{
+    margin-left: 65%;
+}
+#logolink{
+    margin-left: 20%;
+    width: 12%;
+}
+.imagens{
+    width: 90%;
+    margin-left: 5%;
+    margin-top: 5%;
+}
+.formatacao{
+    margin-top: 45.5px;
+    margin-bottom: 45.5px;
+}
+.fotoCS{
+    width: 50%;
+    margin-left: 25%;
+}
+.tabela{
+    width: 70%;
+    margin: 5%;
+}
+button.btn.btn-primary {
+    background: #212529;
+    border-color: black;
+    width: 20%;
+    height: 70px;
+}
+#imgMila{
+    width: 60%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.planta{
+    width: 40%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#camisamu{
+    width: 20%;
+    margin-top: 0%;
+    margin-left: 3%;
+}
+
+.circle-icons {
+
+    padding: 10px; /* espaçamento */
+  
+    font-size: 20px; /* tamanho do icone */
+  
+    width: 35px; /* tamanho do fundo */
+  
+    text-align: center;
+  
+    text-decoration: none;
+  
+    margin: 3%; /* espaçamento entre eles */
+  
+    border-radius: 30%;  
+  
+    background: #c4c0c0; /* cor do fundo */
+  
+    color: #fff; /*cor do icone */
+
+  }
+  
+  
+  .circle-icons:hover {
+  
+      background: rgb(150, 146, 146); /*  cor de fundo com mouse encima */
+  
+      color: #fff;  /* cor do icone com mouse encima */
+  
+      opacity: 0.7;
+  
+  }
+
+  .car {
+    position: relative;
+  
+    display: -webkit-box;
+    display: flex;
+  
+    max-width: 60rem;
+    min-height: 35rem;
+    margin: auto;
+  
+    -webkit-box-pack: center;
+    justify-content: center;
+  }
+
+  .caro {
+    position: relative;
+  
+    display: -webkit-box;
+    display: flex;
+  
+    max-width: 60rem;
+    min-height: 22rem;
+    margin: auto;
+  
+    -webkit-box-pack: center;
+    justify-content: center;
+  }
