@@ -1,5 +1,5 @@
 # MeuPortfolio
 
-https://camilafsilva10.github.io/meuportfolio/
+https://camilafsilva10.github.io/MeuPortfolio/
 <br>
 Meu portfólio acadêmico  
